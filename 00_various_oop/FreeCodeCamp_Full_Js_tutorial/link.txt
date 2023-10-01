@@ -1,0 +1,5 @@
+JavaScript Programming - Full Course
+
+https://www.youtube.com/watch?v=jS4aFq5-91M&t
+
+https://github.com/scrimba/learn-javascript/blob/main/5.%20Build%20a%20Chrome%20Extension/30.%20Preparing%20the%20deployment/manifest.json
